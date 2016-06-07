@@ -4,4 +4,4 @@ metadata
 
 cookbook 'enterprise',
          git: 'https://github.com/opscode-cookbooks/enterprise-chef-common.git',
-         tag: '0.5.2'
+         ref: '460dbf1e40c9d91f24e15e1049149aba3ae123cb'
